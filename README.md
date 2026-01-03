@@ -166,7 +166,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishanbagra18&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FFD700&fire=FF6600&currStreakLabel=00FF00&sideLabels=FF1493&currStreakNum=00FFFF&sideNums=FFD700&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=ishanbagra18&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FFD700&fire=FF6600&currStreakLabel=00FF00&sideLabels=FF1493&currStreakNum=00FFFF&sideNums=FFD700&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
 </p>
 
 <!-- Activity Graph -->
