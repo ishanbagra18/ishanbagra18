@@ -3,7 +3,7 @@
 
 <!-- Animated Typing with Multiple Lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+my+Digital+World!+🌍;Building+Apps+for+1M%2B+Users+📱;SIH+2025+National+Winner+🏆;Hackathon+Champion+🥇;200+Days+of+LeetCode+🔥" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+my+Digital+World!;Building+Apps+for+1M+Users;SIH+2025+National+Winner;Hackathon+Champion;200+Days+of+LeetCode" alt="Typing SVG" /></a>
 </div>
 
 <!-- Animated Stats Cards Row -->
@@ -18,12 +18,12 @@
 
 <!-- Profile Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanbagra18&style=for-the-badge&color=FF1493&label=👀+PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ishanbagra18&style=for-the-badge&color=FF1493&label=PROFILE+VIEWS" alt="Profile Views"/>
   <a href="https://github.com/ishanbagra18?tab=followers">
-    <img src="https://img.shields.io/github/followers/ishanbagra18?style=for-the-badge&color=00FF00&logo=github&label=🤝+FOLLOWERS" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/ishanbagra18?style=for-the-badge&color=00FF00&logo=github&label=FOLLOWERS" alt="Followers"/>
   </a>
   <a href="https://github.com/ishanbagra18">
-    <img src="https://img.shields.io/github/stars/ishanbagra18?style=for-the-badge&color=FFD700&logo=github&label=⭐+STARS" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/ishanbagra18?style=for-the-badge&color=FFD700&logo=github&label=STARS" alt="Stars"/>
   </a>
 </div>
 
@@ -159,8 +159,8 @@
 
 <p align="center">
   <a href="https://github.com/ishanbagra18">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishanbagra18&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00FF00&text_color=FFFFFF&ring_color=FFD700"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbagra18&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagra18&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00FF00&text_color=FFFFFF&ring_color=FFD700"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishanbagra18&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF"/>
   </a>
 </p>
 
@@ -200,7 +200,7 @@
 <h2 align="center">⚡ Competitive Programming ⚡</h2>
 
 <div align="center">
-  <a href="https://leetcode.com/ishanbagra18">
+  <a href="https://leetcode.com/ishanbagra">
     <img src="https://img.shields.io/badge/LeetCode-Top%209.78%25-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=black" />
   </a>
   <a href="https://codechef.com/users/ishanbagra18">
@@ -214,7 +214,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ishanbagra18?theme=nord&font=Ubuntu&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="55%"/>
+  <img src="https://leetcard.jacoblin.cool/ishanbagra?theme=nord&font=Ubuntu&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="55%"/>
 </div>
 
 <!-- Animated Line -->
@@ -322,7 +322,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=💼+Working+on+1M%2B+user+apps;📱+Building+React+Native+features;🚀+Exploring+Cloud+%26+DevOps;🔥+LeetCode+streak+going+strong!" alt="Current Focus" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Working+on+1M+user+apps;Building+React+Native+features;Exploring+Cloud+and+DevOps;LeetCode+streak+going+strong" alt="Current Focus" /></a>
 </div>
 
 <!-- Animated Line -->
@@ -363,7 +363,7 @@
 
 <!-- Animated Typing Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F;Star+%E2%AD%90+my+repos+if+you+like+them!;Let's+connect+and+build+together!+%F0%9F%9A%80" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!;Star+my+repos+if+you+like+them!;Lets+connect+and+build+together!" alt="Footer" /></a>
 </div>
 
 <br/>
