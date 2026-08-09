@@ -119,8 +119,8 @@ I am a **Software Engineer** specializing in full-stack web and mobile applicati
 
 <p align="center">
   <a href="https://github.com/ishanbagra18">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagra18&show_icons=true&theme=dark&bg_color=0f172a&title_color=38bdf8&icon_color=6366f1&text_color=cbd5e1&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishanbagra18&layout=compact&langs_count=8&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&hide_border=true" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ishanbagra18&show_icons=true&theme=dark&bg_color=0f172a&title_color=38bdf8&icon_color=6366f1&text_color=cbd5e1&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbagra18&layout=compact&langs_count=8&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
 
