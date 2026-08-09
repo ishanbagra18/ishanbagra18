@@ -140,9 +140,9 @@ I am a **Software Engineer** specializing in full-stack web and mobile applicati
 <h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ishanbagra18/ishanbagra18/blob/output/github-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ishanbagra18/ishanbagra18/blob/output/github-snake.svg?raw=true" />
-    <img alt="github-snake" src="https://github.com/ishanbagra18/ishanbagra18/blob/output/github-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishanbagra18/ishanbagra18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishanbagra18/ishanbagra18/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ishanbagra18/ishanbagra18/output/github-snake-dark.svg" />
   </picture>
 </div>
 
