@@ -1,7 +1,7 @@
 <!-- Header Section -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=ISHAN%20BAGRA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=55&descSize=16" alt="Ishan Bagra Header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hi,%20I'm%20Ishan!&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
 <!-- Subtitle/Typing Effect -->
 <div align="center">
