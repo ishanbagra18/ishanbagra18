@@ -154,7 +154,7 @@ I am a **Software Engineer** specializing in full-stack web and mobile applicati
   <a href="mailto:ishanbagra2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/ishanbagra">
+  <a href="https://www.linkedin.com/in/ishan-bagra-52aa95289/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ishanbagra18">
@@ -163,12 +163,10 @@ I am a **Software Engineer** specializing in full-stack web and mobile applicati
   <a href="https://instagram.com/ishanbagra18">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://ishanbagra.dev">
+  <a href="https://ishanbagra.live">
     <img src="https://img.shields.io/badge/Portfolio-0057b7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://discord.gg/ishanbagra18">
-    <img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+ 
 </div>
 
 <br/>
