@@ -41,49 +41,21 @@ I am a **Software Engineer** specializing in full-stack web and mobile applicati
 
 ## 💻 Tech Arsenal
 
-### 🚀 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-1e293b?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-1e293b?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Go-1e293b?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
-  <img src="https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,go,react,nextjs,tailwind,nodejs,express,mongodb,supabase,firebase,socketio,git,github,figma,postman,linux" alt="Tech stack"/>
 </p>
 
-### 🎨 Frontend & Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/GSAP-1e293b?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP"/>
-</p>
+<details>
+<summary>See the full breakdown</summary>
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-1e293b?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Go_Gin-1e293b?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Gin"/>
-  <img src="https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Supabase-1e293b?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-1e293b?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Socket.io-1e293b?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-</p>
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | C++, C, Python, JavaScript, TypeScript, Go |
+| **Frontend & Mobile** | React, React Native, Next.js, HTML5, CSS3, Tailwind, GSAP |
+| **Backend & Data** | Node.js, Express, Go (Gin), MongoDB, Supabase, Firebase, Socket.io |
+| **Tools** | Git, GitHub, VS Code, Figma, Postman, Linux |
 
-### 🛠️ Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-1e293b?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-1e293b?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-1e293b?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-</p>
-
-<hr/>
+</details>
 
 ## 🚀 Featured Projects
 
